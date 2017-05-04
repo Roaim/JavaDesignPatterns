@@ -26,7 +26,7 @@
   11. Template Pattern
   12. Visitor Pattern
 ## Checklist
--[x] Factory
+[x] Factory
 -[x] Abstract Factory
 -[x] Singleton
 -[x] Builder
