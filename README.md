@@ -26,12 +26,12 @@
   11. Template Pattern
   12. Visitor Pattern
 ## Checklist
-[x] Factory
--[x] Abstract Factory
--[x] Singleton
--[x] Builder
--[ ] Adapter
--[ ] Facade
--[ ] Observer
--[ ] Iterator
--[ ] Strategy
+- [x] Factory
+- [x] Abstract Factory
+- [x] Singleton
+- [x] Builder
+- [ ] Adapter
+- [ ] Facade
+- [ ] Observer
+- [ ] Iterator
+- [ ] Strategy
